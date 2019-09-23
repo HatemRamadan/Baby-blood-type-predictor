@@ -10,7 +10,7 @@ var sectionStyle = {
   width: "100%",
   height: "653px",
   // backgroundImage: `url(${Background})`,
-  backgroundColor: "rgb(72,0,50)" //"rgba(85,60,139, 1)"
+  backgroundColor: "rgb(55,110,111)" //"rgb(72,0,50)" //"rgba(85,60,139, 1)"
 };
 
 class App extends Component {
